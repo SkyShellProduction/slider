@@ -22,30 +22,6 @@ img {
     width: 100%;
 }
 
-.header__nav {
-    background-color: #000;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 30px;
-
-    z-index: 252;
-}
-
-.header__nav nav {
-    display: flex;
-    justify-content: space-between;
-}
-
-.header__nav nav ul {
-    display: flex;
-}
-
-.header__nav a {
-
-    color: #fff;
-}
-
 .container {
     max-width: 1474px;
     width: 100%;
